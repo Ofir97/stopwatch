@@ -1,4 +1,4 @@
-# stopwatch
+# Stopwatch
 Simple stopwatch with html, css, js.
 App usage: the user can start/pause/continue the timer with specific buttons.
 
